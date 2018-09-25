@@ -1,2 +1,2 @@
-# hmdata
-hmdataのwebページ
+# hm-data
+hm-dataのwebページ
