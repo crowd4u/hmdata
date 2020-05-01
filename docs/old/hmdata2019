@@ -1,0 +1,236 @@
+<U+FEFF><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+<meta name="keywords" content="Crowdsourcing,Human Computation, human-in-the-loop"> 
+<meta name="robots" content="INDEX,FOLLOW">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>The 3rd IEEE Workshop on Human-in-the-loop Methods and Human Machine Collaboration in BigData  (HMData 2019)</title>
+<style type="text/css">
+<!-- @import url(./style.css); -->
+.center{
+ text-align: center;
+}
+</style>
+</head>
+<body>
+<center>
+<table width="920">
+<tr><td colspan="7">
+<h1 style="text-align:center"> The 3rd IEEE Workshop on<br/>Human-in-the-loop Methods and<br/> Human Machine Collaboration in BigData<br/>(IEEE HMData 2019)</h1>
+<h2 style="text-align:center">co-located with <a href="https://cci.drexel.edu/bigdata/bigdata2019/">IEEE Bigdata 2019</a><br/>Los Angeles, <font color="red">Dec. 9th (Fixed)</font></h2>
+<br/>
+<div class="center"><img  width="780"  src="img/Los_Angeles_Skyline_at_Night_small.png"/></a></div>
+Photo courtesy of wikimedia commons
+<hr/>
+</td></tr>
+<tr><td width="15" style="text-align:center"><a href="#about">About</a></td>
+ <td width="20" style="text-align:center"> <a href="#keynotes">Keynotes</a></td>
+ <td width="20" style="text-align:center"> <a href="#dates">Dates and Submission</a></td>
+<!--<td width="30" style="text-align:center"> <a href="#submission">Submission</a></td>-->
+<td width="20" style="text-align:center"><a href="#pg">Program</a></td>
+<td width="40" style="text-align:center"><a href="#sts">Student Travel Support</a></td>
+<td width="30" style="text-align:center"><a href="#organization">Organization</a></td>
+ <td width="30" style="text-align:center"><a href="old/hmdata2018.html">HMData 2018</a></td>
+<!--<td width="30" style="text-align:center"><a href="http://cci.drexel.edu/bigdata/bigdata2019/">IEEE Bigdata 2019</a></td></tr>-->
+<tr><td colspan="7">
+<hr/>
+<h2 id="about" style="text-align:center">About IEEE HMData 2019</h2>
+<h3> Overview</h3>
+<div>
+Human power is a key factor to maximize the impact of bigdata technologies. This workshop addresses human-in-the-loop approaches in bigdata lifecycle - in collecting, processing, analyzing, utilizing, archiving and disposing them. The purpose of this workshop is to give excellent opportunities for students, researchers and practitioners to identify important research problems and exchange their ideas on human-in-the-loop in the bigdata context.  To make the workshop an attractive place for those people, we solicit <b>practitioner papers</b> as well as <b>research papers</b>, in order to facilitate discussion among researchers who know solutions and practitioners who know problems. 
+We also would like to make the place valuable for young researchers. 
+All papers accepted for the workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press, made available at the Conference.
+</div>
+
+<h3>Topics</h3>
+<div>
+This workshop covers a wide range of human-related topics in the bigdata context, such as crowdsourcing, collaborative recommendation, crowdsensing, workflow model for humans and machines, incentives, human-assisted bigdata analysis, bigdata-human interaction,  supporting  tools for humans in  human-in-the-loop systems, security and privacy in human-machine collaboration , human factors and ELSI (ethical, legal and social issues) in human-in-the-loop systems, and  human-machine collaboration in real-world problems.
+</div>
+
+<h2 id="keynotes" style="text-align:center">Keynotes</h2>
+
+<div class="center">
+
+ <b>Computation and Organization</b><br/>
+  Michael Bernstein (Stanford University)<br/>
+
+<img src="img/msb-hoover2-small.png"/>
+
+</div>
+ 
+<div>
+<b>Abstract: </b>Can computation amplify our ability to achieve complex collective goals? 
+ Today's techniques in areas such as crowdsourcing often fall short of this vision, in large 
+ part because their architecture is based on workflows, which are so inflexible that 
+ they can only be used for simple and modular goals. In this talk, I offer an alternative 
+ architecture based on computational organizational structures, and demonstrate that this 
+ approach enables groups to flexibly collaborate toward complex and open-ended goals such 
+ as product design, software engineering, and top-tier research. I will introduce techniques 
+ that fluidly assemble flash organizations and continuously adapt their efforts, evolve team 
+ structures and membership over time, and coordinate volunteers around the world in pursuing 
+ open-ended research. This research argues for a shift away from crowdsourcing as simple 
+ microtasks, wiki edits, or competitions, and toward computational systems that proactively 
+ aid groups in working together nimbly, reactively, and effectively toward complex goals.
+</div><br/>
+
+<div>
+<b>Bio:</b> 
+Michael Bernstein is an Associate Professor of Computer Science at Stanford University, where 
+ he is a member of the Human-Computer Interaction group. His research focuses on the design 
+ of social computing and crowdsourcing systems. Michael's research has received awards at 
+ premier computing venues, and he has been recognized with an NSF CAREER award and an 
+ Alfred P. Sloan Fellowship. His Ph.D. students have gone on both to industry (e.g., 
+ Adobe Research, Facebook Data Science) and faculty careers (e.g., Carnegie Mellon, 
+ UC Berkeley). Michael holds a bachelor's degree in Symbolic Systems from Stanford University, 
+ as well as a master's degree and a Ph.D. in Computer Science from MIT.
+</div>
+
+<h2 id="pg" style="text-align:center">Program</h2>
+
+Labels: [FR] - Full Paper (Research-oriented), [FP] - Full Paper (Practice-oriented), [R] Project-in-Progress Paper (Research-oriented), [P] Project-in-Progress Paper (Practice-oriented)<br/>
+
+<h3>8:50 Opening (WS Chairs)<h3>
+<h3>8:55-10:10 Session 1 (Chair: Atsuyuki Morishima)</h3>
+
+8:55	[FR] Icaro Alzuru, Aditi Malladi, Andrea Matsunaga, Mauricio Tsugawa, and Jose A.B. Fortes. Human-Machine Information Extraction Simulator for Biological Collections<br/>
+9:20	[FP] Munenari Inoguchi, Keiko Tamura, and Ryota Hamamoto. Establishment of Work-Flow for Roof Damage Detection Utilizing Drones, Human and AI based on Human-in-the-Loop Framework<br/>
+9:45	[R] Thi Tran, Rohit Valecha, Paul Rad, and H.Raghav Rao. Misinformation Harms During Crises : When The Human and Machine Loops Interact<br/>
+9:57	[R] Pedoro Cardenas, Georgios Theodoropoulos, Boguslaw Obara, and Ibad Kureshi. Analysing Social Media as a Hybrid Tool to Detect and Interpret likely Radical Behavioural Traits for National Security<br/>
+
+<h3>10:10-10:30 Coffee Break</h3>
+
+<h3> 10:30-12:25 Session 2 (Chair: Satoshi Oyama) </h3>
+10:30	[FR] Pei-Yu Hou, Jing Ao, Andrew Rindos, Shivaramu Keelara, Paula J. Fedorka-Cray, and Rada Chirkova. Collaborative Workflow for Analyzing Large-Scale Data for Antimicrobial Resistance: An Experience Report<br/>	
+10:55	[FR] Masafumi Hayashi, Masaki Kobayashi, Masaki Matsubara, Toshiyuki Amagasa, and Atsuyuki Morishima. Incentive Design for Crowdsourced Development of Selective AI for Human and Machine Data Processing: A Case Study<br/>	
+11:20	[FR] Kousuke Uo, Masaki Kobayashi, Masaki Matsubara, Yukino Baba, and Atsuyuki Morishima. Active Learning Strategies for Hierarchical Labeling Microtasks<br/>
+11:45	[FR] Jordan Hosier, Vijay K.Gurbani, and Neil Milsted. Disambiguation and Error Resolution in Call Transcripts<br/>
+12:10	[R] Hinako Izumi, Masaki Matsubara, Chiemi Watanabe, and Atsuyuki Morishima. A Microtask Approach to Identifying Incomprehension for Facilitating Peer Learning<br/>
+
+<h3>12:25-14:00 Lunch</h3>
+
+
+<h3> 14:00-15:40 Session 3 (Chair: Alex Quinn)</h3>
+<h3> 14:00	Keynote by Michael Bernstein (Stanford University)<br/>Computation and Organization</h3>
+
+<h3> 15:00-15:10 Short Break</h3>
+
+15:10	[P] Kyriaki Dimitradou, Rahul Manghwani, and Timothy C.Hoad. ClusterClean: a Weak Semi- Supervised Approach for Cleaning Data Labels<br/>
+15:25	[R] Shigeaki Yuasa, Takumi Nakai, Takanori Maruichi, Manuel Landsmann, Koichi Kise, Masaki Matsubara, and Atsuyuki Morishima. Towards Quality Assessment of Crowdworker Output Based on Behavioral Data<br/>
+
+<h3> 15:40-16:00 Coffee Break</h3>
+
+<h3> 16:00-17:13 Session 4 (Chair: Kyriaki Dimitradou)</h3>
+16:00	[FR] Ming-Chen Wang, Vahid Golderzahi, and Hsing-Kuo Pao. Extracting Explainable Deep Representation for Machine Tutoring<br/>
+16:25	[R] Takafumi Suzuki, Satoshi Oyama, and Masahito Kurihara. Explainable Recommendation Using Review Text and a Knowledge Graph<br/>
+16:37	[P] Mehdi Bahrami and Wei-Peng Chen. WATAPI: Composing Web API Specification from API Documentations through an Intelligent and Interactive Annotation Tool<br/>
+16:49	[P] Sathish K. Sankarpandi, Spyros Samothrakis, Luca Citi, and Peter Brady. Active learning without unlabeled samples: generating questions and labels using Monte Carlo Tree Search<br/>
+17:01	[P] Hidehiko Shishido, Hansung Kim, and Itaru Kitahara. Super Long Interval Time-Lapse Image Generation for Proactive Preservation of Cultural Heritage Using Crowdsoursing<br/>
+
+<h3> 17:13 Closing Remarks (WS Chairs)</h3>
+
+<h2 id="dates" style="text-align:center">Important Dates</h2>
+<ul>
+<li>Oct <font color="red">12 (Sat)</font>, 2019: Due date for workshop papers submission <font color="red">Extended</font><br/>
+<font color="red">(Authors have to submit the title and abstract by Oct. 7 (Mon))</font>
+<li>Nov 1 (Fri), 2019: Notification of paper acceptance to authors
+<li>Nov 15 (Fri), 2019: Camera-ready of accepted papers
+<li>Dec 9-12 (Mon-Thu), 2019: Workshops
+</ul>
+
+
+<h2 id="submission" style="text-align:center">Submission</h2>
+
+ All submissions must be submitted electorically through <a href="https://wi-lab.com/cyberchair/2019/bigdata19/scripts/submit.php?subarea=S25&undisplay_detail=1&wh=/cyberchair/2019/bigdata19/scripts/ws_submit.php">the submission page</a>.</a>
+<u>Please <b>prefix your submission category</b> such as [Research Paper] to the Title of Paper field in the submission page.</u> 
+For example, if you would like to submit a project-in-progress paper "Crowd-centric Approach to Digital Archive Maintenance," you have to put  "[project-in-progress paper] Crowd-centric Approach to Digital Archive Maintenance" into the Title of Paper field.<br/>
+All papers accepted for the workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press, made available at the Conference.
+
+
+<h3>Submission Categories</h3>
+<ul>
+<li>Research Papers (*) (long presentation): They report significant and original
+results relevant to the scope of this workshop. We solicit innovative or
+thought-provoking work but they do not necessarily have to reach the
+level of completion. The expected length is between 4 and 6 pages. The maximum length is 10 pages, though the paper should be commensurate with the size of the contribution.
+<li>Practitioner papers (*)(long presentation): They present interesting
+problems that
+require human-in-the-loop solutions in a variety of application domains, or
+present the interesting results of applying existing human-in-the-loop
+solutions to
+their domains. The expected length is between 4 and 6 pages.  The maximum length is 10 pages, though the paper should be commensurate with the size of the contribution.
+<li>
+Project-in-progress papers (short presentation): They present the goals,
+challenges, and preliminary results of research or real-world projects
+in progress.
+The maximum length is 3 pages.
+</ul>
+
+(*) Some of the papers submitted to the research or practitioner paper
+categories may be accepted as project-in-progress papers and allotted to short
+presentation slots.
+
+<h3>Format</h3>
+Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines in the <a href="https://cci.drexel.edu/bigdata/bigdata2019/CallPapers.html">IEEE Bigdata 2019 CFP page</a>
+
+<h2 id="sts" style="text-align:center">Student Travel Support</h2>
+
+The IEEE BigData 2019 will offer student travel awards to student authors of not only main confernece papers but also workshop papers.
+Details will be given at IEEE Bigdata 2019 site later.
+<!-- The application deadline is November 15. 
+ Please email the application materials to the Student Travel Award Chair Prof. Feng Chen at fchen5@albany.edu.
+ Details are given at <a href="http://cci.drexel.edu/bigdata/bigdata2018/StudentTravelAward.html">this page</a>.-->
+
+
+<h2 id="organization" style="text-align:center">Organization</h2>
+
+ <h3>Chairs</h3>
+
+Senjuti Basu Roy (NJIT)<br/>
+Alex Quinn (Purdue University)<br/>
+Atsuyuki Morishima (Univesity of Tsukuba)<br/>
+
+<h3>Program Committee</h3>
+
+<div>
+<!--Mohammad Allahbakhsh	(University of New South Wale)<br/> -->
+Yukino Baba (University of Tsukuba)<br/>	 	 
+Wolf-Tilo Balke (Technische Universitaet Braunschweig)<br/>		
+Adam Bradley (Amazon)<br/>
+Daniel Barowy	(Williams College)<br/>
+Marco Brambilla (Politecnico di Milano)<br/>
+Cinzia Cappiello	(Politecnico di Milano)<br/>
+Marina Danilevsky (IBM Research - Almaden)<br/>		
+Ujwal Gadiraju (L3S Research Center)<br/>
+Munenari Inoguchi (University of Toyama)<br/>
+Panos Ipeirotis (New York University)<br/>		
+Vana Kalogeraki	(Athens University of Economics and Business)<br/>
+Itaru Kitahara (University of Tsukuba)<br/>
+Dongwon Lee	(Penn State)<br/>
+Masaki Matsubara (University of Tsukuba)<br/>
+Satoshi Oyama (Hokkaido University/RIKEN AIP)<br/>		
+Nobuyuki Shimizu	(Yahoo!Japan Research)<br/>
+Elena Simperl	(University of Southampton)<br/>
+Yu Suzuki (Gifu University)<br/>		
+Keishi Tajima	(Kyoto University)<br/>
+Saravanan Thirumuruganathan (QCRI)<br/>		
+Ming Yin (Purdue University)<br/>
+Demetris Zeinalipour (University of Cyprus)<br/>		
+Jing Zhang (Nanjing U. of Science & Technology)<br/>
+Yudian Zheng (Twitter)<br/>
+</div>
+ 
+<h3>External Reviewers</h3>
+ <div>
+Qiong Bu (University of Southampton)<br/>
+Briony Gray (University of Southampton)<br/>
+ </div>
+
+ 
+<h3>Contact</h3>
+ hmdata.chairs@gmail.com<br/>
+<hr/>
+</td></tr></table>
+</center>
+</body>
+</html>
